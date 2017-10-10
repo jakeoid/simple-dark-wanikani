@@ -25,7 +25,7 @@ This is a userstyle, so you're going to need either..
 - Opera [Stylish](https://addons.opera.com/en/extensions/details/stylish/) [Stylus](https://addons.opera.com/en-gb/extensions/details/stylus/)
 - Safari [Stylish](http://sobolev.us/stylish/)
 
-Then you can head to the [userstyles.org page](https://userstyles.org/styles/149157/wk-forums-flairs) and press install!
+Then you can head to the [userstyles.org page](https://userstyles.org/styles/149427/wanikani-simple-dark) and press install!
 
 ### Advanced
 
